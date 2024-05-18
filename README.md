@@ -1,1 +1,2 @@
-# Data-Science-Salaries-Analysis-Project-Python-project-
+## Data-Science-Salaries-Analysis-Project-Python-project
+The objective of this project is to analyze the data science salaries dataset to gain insights into the various factors influencing salaries in the field. This includes examining the effects of work experience, employment type, job titles, company locations, and remote work on salary distributions. The analysis utilizes data visualization techniques to uncover patterns and trends within the dataset.
